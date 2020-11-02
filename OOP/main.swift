@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
+
+let yunus = Musicans(nameInit:" YUNUS", ageInit: 25, instrumentInit: "GITAR") //MUSICANS sinifindan yunus obje sini olusturduk.
+
 
